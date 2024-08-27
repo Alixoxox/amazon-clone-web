@@ -252,7 +252,7 @@ body {
 }
 
 .img-body {
-    background-image: url(back.jpg);
+    background-image: url(icons/back.jpg);
     background-size: cover;
     justify-content: center;
     width: 100%;
